@@ -16,13 +16,14 @@ This place It's for save my projects, I like develop in my Free time or learning
 <details>
   <summary><b> :smile: &nbsp;&nbsp;About&nbsp;me</b></summary>
   <br/>
-    - I like read news about technology :mag: 
+  <span>
+    - I like read news about technology :newspaper: 
     - I would like to open a Youtube channel to share my knowledge :computer: 
     - I like go to the cinema :movie_camera: 
     - I play guitar and bass guitar  :guitar: 
     - I prefer tea :tea: 
     - Keeping motivation and learning :mortar_board: 
-  
+   </span>
 </details>
 
 <details>
