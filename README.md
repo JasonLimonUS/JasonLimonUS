@@ -14,7 +14,7 @@ This place It's for save my projects, I like develop in my Free time or learning
 #### More about me
 ---
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;About&nbsp;me</b></summary>
+  <summary><b> :smile: &nbsp;&nbsp;About&nbsp;me</b></summary>
   <br/>
   <p>
     I like read books
@@ -22,7 +22,7 @@ This place It's for save my projects, I like develop in my Free time or learning
 </details>
 
 <details>
-  <summary><b> :smile: &nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <summary><b> 🛠️ :smile: &nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <p>
     <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/java-svgrepo-com.svg" alt="Java" width="40" height="40"/> </span>
