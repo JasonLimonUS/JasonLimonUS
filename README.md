@@ -9,8 +9,7 @@ I'm passionate technology, I like to learn new things day by day. I really like 
 
 🛠️  Languages and Tools
 ---
-<img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/java-svgrepo-com.svg" width="50" />
-<img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/python-svgrepo-com.svg" width="50" />
+![Java](https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/java-svgrepo-com.svg =50x)
 
 Java
 Python
