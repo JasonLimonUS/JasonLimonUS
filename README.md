@@ -7,12 +7,12 @@ I'm passionate technology, I like to learn new things day by day. I really like 
 This place It's for save my projects, I like develop in my Free time or learning something new :books:
 
 #### Connect with me
-
+---
 [![Jason Limon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://mx.linkedin.com/in/jason-limon-bab886170)
 
 
 #### More about me
-
+---
 <details>
   <summary><b>🛠️&nbsp;&nbsp;About&nbsp;me</b></summary>
   <br/>
