@@ -18,14 +18,12 @@ This place It's for save my projects, I like develop in my Free time or learning
   <br/>
   <p>
    
-    <ul>
-       <li> I like read news about technology :mag: </li>
-       <li> I would like to open a Youtube channel to share my knowledge :computer: </li>
-       <li> I like go to the cinema :movie_camera: </li>
-       <li> I play guitar and bass guitar  :guitar: </li>
-       <li> I prefer tea :tea: </li>
-       <li> Keeping motivation and learning :mortar_board: </li>
-    </ul>
+      - I like read news about technology :mag: 
+      - I would like to open a Youtube channel to share my knowledge :computer: 
+      - I like go to the cinema :movie_camera: 
+      - I play guitar and bass guitar  :guitar: 
+      - I prefer tea :tea: 
+      - Keeping motivation and learning :mortar_board: 
     
   </p>
 </details>
