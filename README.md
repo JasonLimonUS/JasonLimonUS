@@ -16,9 +16,8 @@ This place It's for save my projects, I like develop in my Free time or learning
 <details>
   <summary><b> :smile: &nbsp;&nbsp;About&nbsp;me</b></summary>
   <br/>
-  <div>
-    
-    <p></p>
+  <p>
+   
     <ul>
        <li> I like read news about technology :mag: </li>
        <li> I would like to open a Youtube channel to share my knowledge :computer: </li>
@@ -28,7 +27,7 @@ This place It's for save my projects, I like develop in my Free time or learning
        <li> Keeping motivation and learning :mortar_board: </li>
     </ul>
     
-  </div>
+  </p>
 </details>
 
 <details>
