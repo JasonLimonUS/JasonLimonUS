@@ -2,7 +2,7 @@
 
 I'm  Software Engineer, who likes to work with Java/JavaScript with 3+ years of experience.
 
-I'm passionate technology, I like to learn new things day by day. I really like to develop applications using languages like Java, Python even JavaScript.
+I'm passionate technology, I like to learn new things day by day. I really like to develop applications using languages like Java, Python and JavaScript.
 
 This place It's for save my projects, I like develop in my Free time or learning something new :books:
 
