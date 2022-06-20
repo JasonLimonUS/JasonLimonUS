@@ -22,11 +22,25 @@ This place It's for save my projects, I like develop in my Free time or learning
 </details>
 
 <details>
-  <summary><b> 🛠️ &nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <summary><b> 🛠️ &nbsp;&nbsp;Languages&nbsp;(Framworks)&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <p>
     <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/java-svgrepo-com.svg" alt="Java" width="40" height="40"/> </span>
     <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/python-svgrepo-com.svg" alt="Python" width="40" height="40"/> </span>
+    <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/js-svgrepo-com.svg" alt="JavaScript" width="40" height="40"/> </span>
+    <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/spring-svgrepo-com.svg" alt="Spring" width="40" height="40"/> </span>
+    <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/typescript-icon-svgrepo-com.svg" alt="TypeScript" width="40" height="40"/> </span>
+    <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/css-3-logo-svgrepo-com.svg" alt="CSS3" width="40" height="40"/> </span>
+    <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/html-5-svgrepo-com.svg" alt="HTML5" width="40" height="40"/> </span>
+    <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/angular-svgrepo-com.svg" alt="Angular" width="40" height="40"/> </span>
+    <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/reactivex-svgrepo-com.svg" alt="RXJS" width="40" height="40"/> </span>
+    <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/bootstrap-svgrepo-com.svg" alt="Bootstrap" width="40" height="40"/> </span>
+    <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/git-icon-svgrepo-com.svg" alt="Git" width="40" height="40"/> </span>
+    <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/mongodb-svgrepo-com.svg" alt="Mongo" width="40" height="40"/> </span>
+    <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/mysql-logo-svgrepo-com.svg" alt="MySQL" width="40" height="40"/> </span>
+    <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/pgsql-svgrepo-com.svg" alt="PostgreSQL" width="40" height="40"/> </span>
+    <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/postman-icon-svgrepo-com.svg" alt="Postman" width="40" height="40"/> </span>
+    
   </p>
 </details>
 
