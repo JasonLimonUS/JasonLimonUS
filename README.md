@@ -1,4 +1,4 @@
-## Hi, I'm Jason Limon 👋
+## Hi, I'm Jason Limon 👋 :lemon:
 
 I'm  Software Engineer, who likes to work with Java/Python with 3+ years of experience.
 
@@ -22,7 +22,7 @@ This place It's for save my projects, I like develop in my Free time or learning
 </details>
 
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <summary><b> :smile: &nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <p>
     <span> <img src="https://github.com/JasonLimonUS/JasonLimonUS/blob/main/svg/java-svgrepo-com.svg" alt="Java" width="40" height="40"/> </span>
